@@ -13,7 +13,7 @@ This repository contains a fully interactive PL/SQL Supermarket Inventory. It de
 ## Repository Structure
 
 ```
-supermarket_plsql_full/
+supermarket_plsql/
 ├── scripts/
 │   └── supermarket_inventory.sql
 ├── documentation/
