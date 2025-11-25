@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains a fully interactive **PL/SQL Supermarket Inventory & Billing System**. It demonstrates the use of:
+This repository contains a fully interactive PL/SQL Supermarket Inventory. It demonstrates the use of:
 
 * **Records**: Each product is stored as a record.
 * **Collections**: Products stored in an indexed PL/SQL table.
@@ -25,7 +25,7 @@ supermarket_plsql_full/
 
 1. Open **Oracle SQL Developer**.
 2. Connect to your database.
-3. Open `scripts/supermarket_inventory_full.sql`.
+3. Open `scripts/supermarket_inventory.sql`.
 4. Run the script (**F5 – Run Script**).
 5. Follow the interactive menu prompts:
 
@@ -52,7 +52,10 @@ supermarket_plsql_full/
 * **GOTO statements**
 * **Dynamic user input**
 
-## Optional Enhancements
+## References:
+#PLSQL #OraclePLSQL #GOTOStatement #PLSQLJump #DatabaseProgramming #OracleDatabase #PLSQLTutorial
+# PLSQL Loops | Learn Coding
+# https://docs.oracle.com/en/database/oracle/oracle-database/19.3/adpl/ 
+# https://docs.oracle.com/en/database/oracle/oracle-database/19.3/timesten/optimizing-dml.html
+# https://docs.oracle.com/en/database/oracle/sql-developer/20.4/sqldev/
 
-* Include screenshots of script output in `documentation/`.
-* Add a flowchart of menu operations for documentation clarity.
