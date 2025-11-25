@@ -53,7 +53,7 @@ supermarket_plsql/
 * **Dynamic user input**
 
 ## References:
-#PLSQL #OraclePLSQL #GOTOStatement #PLSQLJump #DatabaseProgramming #OracleDatabase #PLSQLTutorial
+# PLSQL #OraclePLSQL #GOTOStatement #PLSQLJump #DatabaseProgramming #OracleDatabase #PLSQLTutorial
 # PLSQL Loops | Learn Coding
 # https://docs.oracle.com/en/database/oracle/oracle-database/19.3/adpl/ 
 # https://docs.oracle.com/en/database/oracle/oracle-database/19.3/timesten/optimizing-dml.html
